@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: صحيفة سودافووت
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      صحيفة [سودافووت](https://sudafoot.com/).. موقع رياضي محترف يختص بكرة القدم
+      السودانية مع تغطية متنوعة للكرة العربية والعالمية.. يقوم على الموقع طاقم
+      تحرير شاب يعمل على ملاحقة الحدث ومواكبة الأخبار وفق أحدث الأنماط الصحفية
+      الإلكترونية.
+
+
+      [
+
+
+
+      ](https://go.ezodn.com/ads/charity/proxy?p_id=b45bea1c-1e44-472a-56a3-7d3a40dc9bda\&d_id=354739\&imp_id=7809864740111470\&c_id=1134\&l_id=10016\&url=https%3A%2F%2Fjoinourvillage.org%2Fdonate%2F\&ffid=1\&co=EG)
     actions:
       - label: Get started
         altText: ''
