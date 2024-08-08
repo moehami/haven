@@ -14,7 +14,7 @@ sections:
       تحرير شاب يعمل على ملاحقة الحدث ومواكبة الأخبار وفق أحدث الأنماط الصحفية
       الإلكترونية.
     actions:
-      - label: Get started
+      - label: صحيفة سودافووت
         altText: ''
         url: /
         showIcon: false
