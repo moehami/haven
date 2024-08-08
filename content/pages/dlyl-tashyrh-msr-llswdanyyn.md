@@ -2,7 +2,7 @@
 type: PageLayout
 title: دليل تأشيرة مصر للسودانيين 2024
 sections: []
-slug: testa
+slug: دليل تأشيرة مصر للسودانيين
 isDraft: false
 seo:
   type: Seo
