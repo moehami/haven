@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: منتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”
-  metaDescription: تقارير و حواراتمنتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”
+  metaDescription: >-
+    بصم منتخب السودان لكرة القدم على مسيرة أكثر من رائعة في التصفيات الأفريقية
+    المؤهلة لكأس العالم 2026
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
