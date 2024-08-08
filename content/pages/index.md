@@ -67,8 +67,6 @@ seo:
   metaDescription: Welcome to
   socialImage: /images/main-hero.jpg
   type: Seo
-  metaTags:
-    - type: MetaTag
-      property: 'twitter:card'
+  metaTags: []
 type: PageLayout
 ---
