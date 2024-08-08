@@ -52,11 +52,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
+  - subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
