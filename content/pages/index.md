@@ -16,7 +16,7 @@ sections:
     actions:
       - label: صحيفة سودافووت
         altText: ''
-        url: /
+        url: 'https://sudafoot.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
