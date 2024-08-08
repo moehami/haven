@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: تقارير و حواراتمنتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”
+  metaTitle: منتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”
   metaDescription: تقارير و حواراتمنتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”
   addTitleSuffix: false
   metaTags: []
