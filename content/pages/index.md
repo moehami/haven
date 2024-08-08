@@ -69,6 +69,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:site_name'
+      property: 'og:locale'
 type: PageLayout
 ---
