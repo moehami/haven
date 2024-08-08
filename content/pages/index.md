@@ -69,6 +69,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:video'
+      property: 'og:site_name'
 type: PageLayout
 ---
