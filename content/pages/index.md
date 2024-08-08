@@ -72,6 +72,6 @@ seo:
       property: 'twitter:card'
       content: TeetCard
     - type: MetaTag
-      property: 'og:url'
+      property: 'og:site_name'
 type: PageLayout
 ---
