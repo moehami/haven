@@ -64,7 +64,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: 'Home '
-  metaDescription: Welcome to
+  metaDescription: Welcome to MOe Haven
   socialImage: /images/main-hero.jpg
   type: Seo
   metaTags: []
