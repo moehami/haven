@@ -75,5 +75,6 @@ seo:
       property: 'og:site_name'
       content: Gooooogle
     - type: MetaTag
+      property: 'og:image'
 type: PageLayout
 ---
