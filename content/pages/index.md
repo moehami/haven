@@ -75,6 +75,6 @@ seo:
       property: 'og:site_name'
       content: Gooooogle
     - type: MetaTag
-      property: 'og:locale'
+      property: google-site-verification
 type: PageLayout
 ---
