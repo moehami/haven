@@ -35,7 +35,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: رياضة المشي
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
