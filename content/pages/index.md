@@ -70,5 +70,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'twitter:card'
+    - type: MetaTag
 type: PageLayout
 ---
