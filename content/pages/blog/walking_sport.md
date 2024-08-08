@@ -36,7 +36,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: رياضة المشي
-  metaDescription: lorem-ipsum
+  metaDescription: رياضة المشي
   addTitleSuffix: false
   metaTags: []
 colors: bg-neutralAlt-fg-dark
