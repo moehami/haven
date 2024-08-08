@@ -67,6 +67,7 @@ seo:
   metaDescription: Welcome to MOe Haven
   socialImage: /images/main-hero.jpg
   type: Seo
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
