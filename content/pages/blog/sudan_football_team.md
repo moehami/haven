@@ -64,10 +64,19 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+**بصم** [**منتخب السودان لكرة القدم**](https://sudafoot.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d9%85-%d9%8a%d8%b9%d9%8a%d8%b4-%d8%ad%d9%8f%d9%84%d9%85-%d9%85%d9%88/) **على مسيرة أكثر من رائعة في التصفيات الأفريقية المؤهلة لكأس العالم 2026، حيث يتصدر “صقور الجديان” المجموعة الثانية برصيد 10 نقاط بفارق نقطتين أمام منتخب السنغال المدجج بالنجوم، وذلك بعد مضي أربع جولات من التصفيات، فيما يشبه المعجزة نظرًا لتوقف النشاط الرياضي المنتظم في السودان من أبريل 2023 حيث اندلعت الحرب في البلاد.**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+#### **إنطلاقة قوية**
+
+**بدأ منتخب السودان لكرة القدم مشوار التصفيات بمواجهة منتخب توغو في نوفمبر 2023 في الجولة الأولى وتعادل معه 1-1 في ملعب “شهداء بنينا” في ليبيا الذي يتخذه السودان أرضًا له، ثم فاز في الجولة الثانية على منتخب الكونغو الديمقراطية بهدف دون رد، وفي يونيو 2024  حقق صقور الجديان القفزة الأكبر بعدما حققوا الفوز على منتخب موريتانيا المتطور في عقر داره بهدفين دون رد، ثم واصلوا التوهج بانتصار باهر آخر على منتخب جنوب السودان في “جوبا” بثلاثية نظيفة، ليتربعوا على صدارة المجموعة برصيد 10 نقاط.**
+
+\<div style="text-align: center">[
+
+منتخب السودان لكرة القدم .. يعيش حُلم “مونديال 2026”](https://sudafoot.com/%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d9%85-%d9%8a%d8%b9%d9%8a%d8%b4-%d8%ad%d9%8f%d9%84%d9%85-%d9%85%d9%88/)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\</div>
+
+
+
+
