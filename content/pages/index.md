@@ -69,6 +69,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:locale'
+      property: 'og:video'
 type: PageLayout
 ---
