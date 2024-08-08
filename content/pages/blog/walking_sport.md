@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: رياضة المشي
-date: '2022-10-10'
+date: '2024-08-10'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
