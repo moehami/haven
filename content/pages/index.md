@@ -71,5 +71,6 @@ seo:
     - type: MetaTag
       property: 'twitter:card'
     - type: MetaTag
+      property: 'og:url'
 type: PageLayout
 ---
