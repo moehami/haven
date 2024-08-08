@@ -76,5 +76,6 @@ seo:
       content: Gooooogle
     - type: MetaTag
       property: google-site-verification
+      content: I1BLZjC9mWGo7VaJ0qN8KfJQq9eGot8eYh4A__vovDM
 type: PageLayout
 ---
