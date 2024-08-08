@@ -73,5 +73,6 @@ seo:
       content: TeetCard
     - type: MetaTag
       property: 'og:site_name'
+      content: Gooooogle
 type: PageLayout
 ---
